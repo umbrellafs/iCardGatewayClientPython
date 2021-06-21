@@ -20,6 +20,7 @@ Creating an instance of the client requires 3 parameters:
 
 ### Example 1 - Production Enviroment
     iCardCleintProduction = iCard(7120114562, "d2fghj3#kleu4i$^oeddk3w4dow343kdlk+%#%DE$G^HLS123Phhr%^H+55Ssrf#4f", "production")
+    
 ### Example 2 - Testing Enviroment
     iCardCleintTesting = iCard(1000114562, "f4#frsS55+H^%rhhP321SLH^G$ED%#%+kldk343wod4w3kddeo^$i4uelk#3jhgf2d", "testing")
 
