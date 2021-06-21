@@ -38,6 +38,7 @@ This method returns a detailed list of all brands and categories. It requires a 
 This method requires 2 parameters:
  - iCash Card Number
  - Payment Code to Store #10 where amount is zero.
+
 ### Example
 
     iCardClient.retrieveCards("7120111245", "1579864")
